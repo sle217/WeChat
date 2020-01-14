@@ -15,6 +15,10 @@ namespace WeChat
         public Form1()
         {
             InitializeComponent();
+
+
+
+
         }
     }
 }
